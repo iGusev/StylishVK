@@ -5,6 +5,9 @@
     background: url(http://svgshare.com/i/FVP.svg) no-repeat 50% / contain !important;
 }
 
+.like_share_about_select input {
+    background-color: rgb(26, 26, 26);
+}
 .audio_row .audio_row__performers a {
     color: #4F8CC9
 }
