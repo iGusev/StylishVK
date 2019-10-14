@@ -1,4 +1,4 @@
-# StylishVK
+# StylishVKDark
 Based on [VDARK](https://github.com/Wondermarin/VDARK)
 
 
